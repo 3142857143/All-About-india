@@ -1,0 +1,1035 @@
+body{
+  background-color: #1A1A1D;
+}
+#home {
+  font-family: monospace;
+  font-size: 26px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  z-index: 900;
+}
+
+#demograph {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 80px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#demograph:hover, #demograph:active {
+  background-color: white;
+}
+#sports {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 140px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#sports:hover, #sports:active {
+  background-color: white;
+}
+#geography {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 200px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#geography:hover, #geography:active {
+  background-color: white;
+}
+#politics {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 250px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#politics:hover, #politics:active {
+  background-color: white;
+}
+
+
+#one {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  bottom:0px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#two {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 130px;
+  color: white;
+}
+#three {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 780px;
+  color: white;
+}
+#four {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:373px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#five {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 1780px;
+  color: white;
+}
+#seven {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:1143px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#eight {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 2770px;
+  color: white;
+}
+#nine {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:1913px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#eleven {
+font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 3960px;
+  color: white;
+}
+#twelve {
+font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:2883px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#thirteen {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 5100px;
+  color: white;
+}
+#fourteen {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:3783px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#fifteen {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 5880px;
+  color: white;
+}
+#sixteen {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:4343px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#seventeen {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 6640px;
+  color: white;
+}
+#eighteen {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:4883px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#nineteen {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 7480px;
+  color: white;
+}
+#twenty {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:5493px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#twentyone {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 8640px;
+  color: white;
+}
+#twentytwo {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:6433px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#twentythree {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 9630px;
+  color: white;
+}
+#twentyfour {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:7193px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#twentyfive {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 10730px;
+  color: white;
+}
+#twentysix {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:8073px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#twentyseven {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 11860px;
+  color: white;
+}
+#twentyeight {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:8973px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#twentynine {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 13020px;
+  color: white;
+}
+#thirty {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:9913px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#thirtyone {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 13870px;
+  color: white;
+}
+#thirtytwo {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:10533px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#thirtythree {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 14970px;
+  color: white;
+}
+#thirtyfour {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:11409px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#thirtyfive {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 15870px;
+  color: white;
+}
+#thirtysix {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:12079px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#thirtyseven {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 16820px;
+  color: white;
+}
+#thirtyeight {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:12809px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#thirtynine {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 17460px;
+  color: white;
+}
+#forty {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:13221px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#fortyone {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 18200px;
+  color: white;
+}
+#fortytwo {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:14121px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#fortythree {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 19550px;
+  color: white;
+}
+#fortyfour {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:14861px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#fortyfive {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 19870px;
+  color: white;
+}
+#fortysix {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:14957px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#fortyseven {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 20590px;
+  color: white;
+}
+#fortyeight {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:15447px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#fortynine {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 21250px;
+  color: white;
+}
+#fifty {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:15887px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#fiftyone {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 21780px;
+  color: white;
+}
+#fiftytwo {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:16190px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#fiftythree {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 22475px;
+  color: white;
+}
+#fiftyfour {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:16660px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#fiftyfive {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 23115px;
+  color: white;
+}
+#fiftysix {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:17075px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#fiftyseven {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 23725px;
+  color: white;
+}
+#fiftyeight {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:17465px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+.rectangle{
+
+  height: 170px;
+  width: 1300px;
+  position: relative;
+  animation-name: example2;
+  right: 90px;
+  animation-duration: 2s;
+  bottom: 170px;
+  background-color: #4E4E50;
+  z-index: 800;
+}
+@keyframes example {
+  0% {color: black;}
+  25% {color: white;}
+  50% {color: black;}
+  75% {color: white;}
+  100% {color: black;}
+}
+#rectangle2{
+  background-color: #4E4E50;
+  border-radius: 25px;
+  position: fixed;
+  top:88px;
+  left: -30px;
+  height: 700px;
+  width: 220px;
+  animation-name: shape;
+  animation-duration: 2s;
+  z-index: 800;
+}
+@keyframes shape {
+  0% {position: fixed;
+  top:88px;
+  left: -400px;
+  }
+  100% {position: fixed;
+  top:88px;
+  left: -30px;
+  }
+}
+#href1 {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 460px;
+    right: 1029px;
+    z-index: 900;
+    text-align: center;
+}
+#href2 {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 440px;
+    right: 1035px;
+    z-index: 900;
+}
+#archery {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 417px;
+    right: 1036px;
+    z-index: 900;
+}
+#Athletics {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 394px;
+    right: 1055px;
+    z-index: 900;
+}
+#Badminton {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 373px;
+    right: 1057px;
+    z-index: 900;
+}
+#Boxing {
+    font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 353px;
+    right: 1036px;
+    z-index: 900;
+}
+#FieldHockey {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 333px;
+    right: 1015px;
+    z-index: 900;
+}
+#Football {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 313px;
+    right: 1027px;
+    z-index: 900;
+}
+#non {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 273px;
+    right: 1059px;
+    z-index: 900;
+    text-align: center;
+}
+#cricket {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 253px;
+    right: 1054px;
+    z-index: 900;
+
+}
+#rao {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 233px;
+    right: 1079px;
+    z-index: 900;
+
+}
+#chandrasekharan {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 213px;
+    right: 1039px;
+    z-index: 900;
+
+}
+#Khorana {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 193px;
+    right: 1039px;
+    z-index: 900;
+
+}
+#Ramachandran {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 173px;
+    right: 1039px;
+    z-index: 900;
+
+}
+#Chandra {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 153px;
+    right: 1059px;
+    z-index: 900;
+
+}
+#Bappu {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 133px;
+    right: 1049px;
+    z-index: 900;
+
+}
+#Sen {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 113px;
+    right: 1071px;
+    z-index: 900;
+
+}
+#Ramakrishnan {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 93px;
+    right: 1051px;
+    z-index: 900;
+
+}
+#Waves {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 73px;
+    right: 1041px;
+    z-index: 900;
+
+}
+#Unnikrishnan {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 53px;
+    right: 1021px;
+    z-index: 900;
+
+}
+#Unnikrishnan {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 53px;
+    right: 1021px;
+    z-index: 900;
+
+}
+#Green {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 33px;
+    right: 1047px;
+    z-index: 900;
+
+}
+#White {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 10px;
+    right: 1047px;
+    z-index: 900;
+
+}
+#sportslink {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 500px;
+    right: 1100px;
+    z-index: 900;
+}
+@keyframes link{
+  0% {
+    opacity: 0%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+#Table_of_content {
+  font-family: monospace;
+  text-decoration: underline;
+  position: fixed;
+  bottom: 515px;
+  font-size: 22px;
+  left: 40px;
+  z-index: 900;
+  color: white;
+  border-color: white;
+  animation-name: animation_content;
+  animation-duration: 4s;
+  animation-delay: 1s;
+}
+@keyframes animation_content {
+    0% {
+      color: white;
+    }
+    25% {
+      color: orange;
+    }
+    50% {
+      color: lightgreen;
+    }
+    100% {
+      color: white;
+    }
+}

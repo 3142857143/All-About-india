@@ -1,0 +1,1176 @@
+body{
+  background-color: #1A1A1D;
+}
+#home {
+  font-family: monospace;
+  font-size: 26px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  z-index: 900;
+}
+#science {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 100px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#science:hover, #science:active {
+  background-color: white;
+}
+#geography {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 400px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#geography:hover, #geography:active {
+  background-color: white;
+}
+#demograph {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 80px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#demograph:hover, #demograph:active {
+  background-color: white;
+}
+#sports {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 140px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#sports:hover, #sports:active {
+  background-color: white;
+}
+.rectangle{
+
+  height: 170px;
+  width: 1300px;
+  position: relative;
+  animation-name: example2;
+  right: 90px;
+  animation-duration: 2s;
+  bottom: 170px;
+  background-color: #4E4E50;
+  z-index: 800;
+}
+@keyframes example {
+  0% {color: black;}
+  25% {color: white;}
+  50% {color: black;}
+  75% {color: white;}
+  100% {color: black;}
+}
+@keyframes example2 {
+  0% {position: relative;
+    bottom: 300px;
+    right: 90px;
+  }
+  100% {position: relative;
+    bottom: 170px;
+    right: 90px;
+  }
+}
+#one {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  bottom:55px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#two {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 130px;
+  color: white;
+}
+#three {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 1480px;
+  color: white;
+}
+#four {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:1055px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#five {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 2220px;
+  color: white;
+}
+#six {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:1105px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#seven {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 3490px;
+  color: white;
+}
+#eight {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:2145px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#nine {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 3740px;
+  color: white;
+}
+#ten {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:3365px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#eleven {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 4420px;
+  color: white;
+}
+#twelve {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:2395px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#thirteen {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 4660px;
+  color: white;
+}
+#fourteen {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:2415px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#fifteen {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 5020px;
+  color: white;
+}
+#sixteen {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:2545px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#seventeen {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 5530px;
+  color: white;
+}
+#eighteen {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:2835px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#nineteen {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 5830px;
+  color: white;
+}
+#twenty {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:2905px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#demon {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top:7260px;
+  color: white;
+}
+#twentyone {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 7320px;
+  color: white;
+}
+#er {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 14610px;
+  color: white;
+}
+#twentytwo {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:3565px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#twentythree {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 7480px;
+  color: white;
+}
+#twentyfour {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:3495px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#twentyfive {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 7730px;
+  color: white;
+}
+#twentysix {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:3515px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#twentyseven {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 7990px;
+  color: white;
+}
+#twentyeight {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:3555px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#mineral_oil {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:10575px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#ores {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:10645px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#wetlands {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:9670px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#ross {
+  font-family: sans-serif;
+  position: relative;
+  left: 205px;
+  top:1945px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+
+#img1 {
+  filter: grayscale();
+  border-radius: 20px;
+  border-color: orange;
+  border-width: ;
+  max-width: 70%;
+  position: relative;
+    top: 1080px;
+    left: 220px;
+  animation-name: example3;
+  animation-duration: 2s;
+  --c: lightgrey; /* the border color */
+  --b: 10px;    /* the border thickness*/
+  --g: 5px;     /* the gap on hover */
+
+  padding: calc(var(--g) + var(--b));
+  --_g: #0000 25%,var(--c) 0;
+  background:
+    conic-gradient(from 180deg at top    var(--b) right var(--b),var(--_g))
+     var(--_i,200%) 0  /200% var(--_i,var(--b))  no-repeat,
+    conic-gradient(            at bottom var(--b) left  var(--b),var(--_g))
+     0   var(--_i,200%)/var(--_i,var(--b)) 200%  no-repeat;
+  transition: .3s, background-position .2s .2s;
+  cursor: pointer;
+}
+#img1:hover {
+  filter: brightness();();
+  --_i: 100%;
+  transition: .3s, background-size .2s .2s;
+}
+#img2 {
+  border-radius: 20px;
+  border-color: orange;
+  border-width: ;
+  position: relative;
+    top: 3460px;
+    left: 220px;
+--c: orange; /* the border color */
+  --b: 15px;    /* the border thickness*/
+  --g: 5px;     /* the gap on hover */
+
+  padding: calc(var(--g) + var(--b));
+  --_g: #0000 25%,var(--c) 0;
+  background:
+    conic-gradient(from 180deg at top    var(--b) right var(--b),var(--_g))
+     var(--_i,200%) 0  /200% var(--_i,var(--b))  no-repeat,
+    conic-gradient(            at bottom var(--b) left  var(--b),var(--_g))
+     0   var(--_i,200%)/var(--_i,var(--b)) 200%  no-repeat;
+  transition: .3s, background-position .2s .2s;
+  cursor: pointer;
+}
+#img2:hover {
+  filter: brightness();();
+  --_i: 100%;
+  transition: .3s, background-size .2s .2s;
+}
+#img3 {
+  border-radius: 20px;
+  border-color: orange;
+  border-width: 5%;
+  width: 30%;
+  height: 30%;
+  position: relative;
+    top: 2790px;
+    left: 246px;
+  float: center;
+  animation-name: example3;
+  animation-duration: 2s;
+}
+#img4 {
+  border-radius: 20px;
+  border-color: orange;
+  border-width: ;
+  width: 30%;
+  height: 30%;
+  position: relative;
+    top: 3150px;
+    left: -115px;
+  float: center;
+  animation-name: example3;
+  animation-duration: 2s;
+}
+#img5 {
+  border-radius: 20px;
+  border-color: orange;
+  border-width: ;
+  width: 30%;
+  height: 30%;
+  position: relative;
+    top: 3305px;
+    left: -470px;
+  float: center;
+  animation-name: example3;
+  animation-duration: 2s;
+}
+#image6 {
+  perspective: 3000px;
+  width: 50%;
+  position: absolute;
+  left: 44%;
+  top:1130%;
+  transform: translate(-50%, -50%);
+  transform-style: preserve-3d;
+}
+#img6 {
+  transform: rotateX(70deg) rotateZ(-60deg) translate3d(-120px, 0px, 70px);
+  box-shadow: -80px 60px 15px 5px rgba(0,0,0,0.4);
+  transition: all .4s;
+  transform-style: preserve-3d;
+}
+#img6:hover {
+  transform: rotateX(0deg) rotateZ(0deg) translate3d(0px, 0px, 0px);
+  box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.0);
+}
+#img7 {
+  filter: grayscale();
+  position: relative;
+  top: 6780px;
+  left: 220px;
+  --s: 15px;  /* size of the frame */
+  --b: 2px;   /* border thickness */
+  --w: 200px; /* width of the image */
+  --c: #7B3B3B;
+
+  width: var(--w);
+  aspect-ratio: 1;
+  object-fit: cover;
+  padding: calc(2*var(--s));
+  --_g: var(--c) var(--b),#0000 0 calc(100% - var(--b)),var(--c) 0;
+  background:
+    linear-gradient(      var(--_g)) 50%/100% var(--_i,100%) no-repeat,
+    linear-gradient(90deg,var(--_g)) 50%/var(--_i,100%) 100% no-repeat;
+  outline: calc(var(--w)/2) solid #0009;
+  outline-offset: calc(var(--w)/-2 - 2*var(--s));
+  transition: .4s;
+  cursor: pointer;
+}
+#img7:hover {
+  outline: var(--b) solid var(--c);
+  outline-offset: calc(var(--s)/-2);
+  --_i: calc(100% - 2*var(--s));
+}
+#img8 {
+  filter: brightness();
+  position: relative;
+  top: 7830px;
+  left: 220px;
+  --s: 15px;  /* size of the frame */
+  --b: 2px;   /* border thickness */
+  --w: 200px; /* width of the image */
+  --c: orange;
+
+  width: var(--w);
+  aspect-ratio: 1;
+  object-fit: cover;
+  padding: calc(2*var(--s));
+  --_g: var(--c) var(--b),#0000 0 calc(100% - var(--b)),var(--c) 0;
+  background:
+    linear-gradient(      var(--_g)) 50%/100% var(--_i,100%) no-repeat,
+    linear-gradient(90deg,var(--_g)) 50%/var(--_i,100%) 100% no-repeat;
+  outline: calc(var(--w)/2) solid #0009;
+  outline-offset: calc(var(--w)/-2 - 2*var(--s));
+  transition: .4s;
+  cursor: pointer;
+}
+#img8:hover {
+    outline: var(--b) solid var(--c);
+  outline-offset: calc(var(--s)/-2);
+  --_i: calc(100% - 2*var(--s));
+}
+
+#img9 {
+  filter: brightness();
+  position: relative;
+  top: 9680px;
+  left: 220px;
+  --s: 15px;  /* size of the frame */
+  --b: 2px;   /* border thickness */
+  --w: 200px; /* width of the image */
+  --c: orange;
+
+  width: var(--w);
+  aspect-ratio: 1;
+  object-fit: cover;
+  padding: calc(2*var(--s));
+  --_g: var(--c) var(--b),#0000 0 calc(100% - var(--b)),var(--c) 0;
+  background:
+    linear-gradient(      var(--_g)) 50%/100% var(--_i,100%) no-repeat,
+    linear-gradient(90deg,var(--_g)) 50%/var(--_i,100%) 100% no-repeat;
+  outline: calc(var(--w)/2) solid #0009;
+  outline-offset: calc(var(--w)/-2 - 2*var(--s));
+  transition: .4s;
+  cursor: pointer;
+}
+#img9:hover {
+    outline: var(--b) solid var(--c);
+  outline-offset: calc(var(--s)/-2);
+  --_i: calc(100% - 2*var(--s));
+}
+
+#img10 {
+  filter: brightness();
+  position: relative;
+  top: 9680px;
+  left: 220px;
+  --s: 15px;  /* size of the frame */
+  --b: 2px;   /* border thickness */
+  --w: 200px; /* width of the image */
+  --c: orange;
+
+  width: var(--w);
+  aspect-ratio: 1;
+  object-fit: cover;
+  padding: calc(2*var(--s));
+  --_g: var(--c) var(--b),#0000 0 calc(100% - var(--b)),var(--c) 0;
+  background:
+    linear-gradient(      var(--_g)) 50%/100% var(--_i,100%) no-repeat,
+    linear-gradient(90deg,var(--_g)) 50%/var(--_i,100%) 100% no-repeat;
+  outline: calc(var(--w)/2) solid #0009;
+  outline-offset: calc(var(--w)/-2 - 2*var(--s));
+  transition: .4s;
+  cursor: pointer;
+}
+#img10:hover {
+    outline: var(--b) solid var(--c);
+  outline-offset: calc(var(--s)/-2);
+  --_i: calc(100% - 2*var(--s));
+}
+
+#img11 {
+  filter: brightness();
+  position: relative;
+  top: 9680px;
+  left: 220px;
+  --s: 15px;  /* size of the frame */
+  --b: 2px;   /* border thickness */
+  --w: 200px; /* width of the image */
+  --c: orange;
+
+  width: var(--w);
+  aspect-ratio: 1;
+  object-fit: cover;
+  padding: calc(2*var(--s));
+  --_g: var(--c) var(--b),#0000 0 calc(100% - var(--b)),var(--c) 0;
+  background:
+    linear-gradient(      var(--_g)) 50%/100% var(--_i,100%) no-repeat,
+    linear-gradient(90deg,var(--_g)) 50%/var(--_i,100%) 100% no-repeat;
+  outline: calc(var(--w)/2) solid #0009;
+  outline-offset: calc(var(--w)/-2 - 2*var(--s));
+  transition: .4s;
+  cursor: pointer;
+}
+#img11:hover {
+    outline: var(--b) solid var(--c);
+  outline-offset: calc(var(--s)/-2);
+  --_i: calc(100% - 2*var(--s));
+}
+#img12 {
+  filter: brightness();
+  position: relative;
+  top: 0px;
+  left: 0px;
+  --s: 15px;  /* size of the frame */
+  --b: 2px;   /* border thickness */
+  --w: 400px; /* width of the image */
+  --c: orange;
+
+  width: var(--w);
+  aspect-ratio: 1;
+  object-fit: cover;
+  padding: calc(2*var(--s));
+  --_g: var(--c) var(--b),#0000 0 calc(100% - var(--b)),var(--c) 0;
+  background:
+    linear-gradient(      var(--_g)) 50%/100% var(--_i,100%) no-repeat,
+    linear-gradient(90deg,var(--_g)) 50%/var(--_i,100%) 100% no-repeat;
+  outline: calc(var(--w)/2) solid #0009;
+  outline-offset: calc(var(--w)/-2 - 2*var(--s));
+  transition: .4s;
+  cursor: pointer;
+}
+#img12:hover {
+    outline: var(--b) solid var(--c);
+  outline-offset: calc(var(--s)/-2);
+  --_i: calc(100% - 2*var(--s));
+}
+#img13 {
+  filter: brightness();
+  position: relative;
+  top: 0px;
+  left: 0px;
+  --s: 15px;  /* size of the frame */
+  --b: 2px;   /* border thickness */
+  --w: 400px; /* width of the image */
+  --c: orange;
+
+  width: var(--w);
+  aspect-ratio: 1;
+  object-fit: cover;
+  padding: calc(2*var(--s));
+  --_g: var(--c) var(--b),#0000 0 calc(100% - var(--b)),var(--c) 0;
+  background:
+    linear-gradient(      var(--_g)) 50%/100% var(--_i,100%) no-repeat,
+    linear-gradient(90deg,var(--_g)) 50%/var(--_i,100%) 100% no-repeat;
+  outline: calc(var(--w)/2) solid #0009;
+  outline-offset: calc(var(--w)/-2 - 2*var(--s));
+  transition: .4s;
+  cursor: pointer;
+}
+#img13:hover {
+    outline: var(--b) solid var(--c);
+  outline-offset: calc(var(--s)/-2);
+  --_i: calc(100% - 2*var(--s));
+}
+#img14 {
+  filter: sepia();
+  position: relative;
+  top: 0px;
+  left: 0px;
+  --s: 15px;  /* size of the frame */
+  --b: 2px;   /* border thickness */
+  --w: 400px; /* width of the image */
+  --c: orange;
+
+  width: var(--w);
+  aspect-ratio: 1;
+  object-fit: cover;
+  padding: calc(2*var(--s));
+  --_g: var(--c) var(--b),#0000 0 calc(100% - var(--b)),var(--c) 0;
+  background:
+    linear-gradient(      var(--_g)) 50%/100% var(--_i,100%) no-repeat,
+    linear-gradient(90deg,var(--_g)) 50%/var(--_i,100%) 100% no-repeat;
+  outline: calc(var(--w)/2) solid #0009;
+  outline-offset: calc(var(--w)/-2 - 2*var(--s));
+  transition: .4s;
+  cursor: pointer;
+}
+#img14:hover {
+    outline: var(--b) solid var(--c);
+  outline-offset: calc(var(--s)/-2);
+  --_i: calc(100% - 2*var(--s));
+}
+#img15 {
+  filter: brightness();
+  position: relative;
+  top: 0px;
+  left: 0px;
+  --s: 15px;  /* size of the frame */
+  --b: 2px;   /* border thickness */
+  --w: 400px; /* width of the image */
+  --c: orange;
+
+  width: var(--w);
+  aspect-ratio: 1;
+  object-fit: cover;
+  padding: calc(2*var(--s));
+  --_g: var(--c) var(--b),#0000 0 calc(100% - var(--b)),var(--c) 0;
+  background:
+    linear-gradient(      var(--_g)) 50%/100% var(--_i,100%) no-repeat,
+    linear-gradient(90deg,var(--_g)) 50%/var(--_i,100%) 100% no-repeat;
+  outline: calc(var(--w)/2) solid #0009;
+  outline-offset: calc(var(--w)/-2 - 2*var(--s));
+  transition: .4s;
+  cursor: pointer;
+}
+#img15:hover {
+    outline: var(--b) solid var(--c);
+  outline-offset: calc(var(--s)/-2);
+  --_i: calc(100% - 2*var(--s));
+}
+#newimg {
+  border-radius: 20px;
+  border-color: orange;
+}
+#joey {
+  font-family: sans-serif;
+  position: relative;
+  left: 205px;
+  top:3765px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#chandler {
+  font-family: sans-serif;
+  position: relative;
+  left: 205px;
+  top:4025px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#monica {
+  font-family: sans-serif;
+  position: relative;
+  left: 205px;
+  top:6385px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#naruto {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:6645px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#bole {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:8525px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#sakura {
+  font-family: sans-serif;
+  position: relative;
+  left: 210px;
+  top:8685px;
+  color: Whitesmoke;
+  text-align: left;
+  align-content: ;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#intro {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 505px;
+    right: 1094px;
+    z-index: 900;
+}
+#gd {
+  text-align: center;
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 465px;
+    right: 1040px;
+    z-index: 900;
+}
+#pg {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 443px;
+    right: 1022px;
+    z-index: 900;
+}
+#eer {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 373px;
+    right: 1070px;
+    z-index: 900;
+}
+#wb {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 350px;
+    right: 1037px;
+    z-index: 900;
+}
+#wt {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 330px;
+    right: 1041px;
+    z-index: 900;
+}
+#eco {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 310px;
+    right: 1022px;
+    z-index: 900;
+}
+#rwr {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 288px;
+    right: 1052px;
+    text-align: center;
+    align-content: center;
+    z-index: 900;
+}
+#mo {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 248px;
+    right: 1035px;
+    text-align: center;
+    align-content: center;
+    z-index: 900;
+}
+#mro {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 228px;
+    right: 1045px;
+    text-align: center;
+    align-content: center;
+    z-index: 900;
+}
+#cmat {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 208px;
+    right: 1025px;
+    text-align: center;
+    align-content: center;
+    z-index: 900;
+}
+#sgov {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 185px;
+    right: 1040px;
+    text-align: center;
+    align-content: center;
+    z-index: 900;
+}
+#geo {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 163px;
+    right: 1048px;
+    text-align: center;
+    align-content: center;
+    z-index: 900;
+}
+@keyframes link{
+  0% {
+    opacity: 0%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+#nr {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 395px;
+    right: 1075px;
+    z-index: 900;
+}
+#pr {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 420px;
+    right: 1042px;
+    z-index: 900;
+}
+#Table_of_content {
+  font-family: monospace;
+  text-decoration: underline;
+  position: fixed;
+  bottom: 515px;
+  font-size: 22px;
+  left: 40px;
+  z-index: 900;
+  color: white;
+  border-color: white;
+  animation-name: animation_content;
+  animation-duration: 4s;
+  animation-delay: 1s;
+}
+#rectangle2{
+  background-color: #4E4E50;
+  border-radius: 25px;
+  position: fixed;
+  top:88px;
+  left: -30px;
+  height: 700px;
+  width: 220px;
+  animation-name: shape;
+  animation-duration: 2s;
+  z-index: 800;
+}
+@keyframes shape {
+  0% {position: fixed;
+  top:88px;
+  left: -400px;
+  }
+  100% {position: fixed;
+  top:88px;
+  left: -30px;
+  }
+}
+@keyframes animation_content {
+    0% {
+      color: white;
+    }
+    25% {
+      color: orange;
+    }
+    50% {
+      color: lightgreen;
+    }
+    100% {
+      color: white;
+    }
+}

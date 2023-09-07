@@ -1,0 +1,509 @@
+body{
+  background-color: #1A1A1D;
+}
+
+#science {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 80px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#science:hover, #science:active {
+  background-color: white;
+}
+#sports {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 140px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#sports:hover, #sports:active {
+  background-color: white;
+}
+#geography {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 200px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#geography:hover, #geography:active {
+  background-color: white;
+}
+#politics {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 250px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#politics:hover, #politics:active {
+  background-color: white;
+}
+
+#pden_link {
+
+}
+#six {
+  font-family: monospace;
+  font-size: 26px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  z-index: 900;
+}
+#sex_ratio {
+    font-family: "Monaco", monospace;
+    position: absolute;
+    left: 230px;
+    top: 5830px;
+    text-decoration: underline;
+    color: white;
+    font-size: 40px;
+}
+#sex_ratio_link {
+  font-family: sans-serif;
+  color: Whitesmoke;
+  text-decoration: none;
+  font-size: 16px;
+  position: fixed;
+  animation-name: example6;
+  animation-duration: 2s;
+  bottom: 372px;
+  right: 1076px;
+  z-index: 900;
+}
+#sex_ratio_p {
+    font-family: sans-serif;
+    position: relative;
+    left: 220px;
+    top: 2300px;
+    color: black;
+    text-align: left;
+    font-size: 25px;
+    color:Whitesmoke;
+      width: 800px;
+      height:200px;
+}
+#five {
+    font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    left: 19px;
+    top:190px;
+    z-index: 900;
+    animation-name: example7;
+    animation-duration: 2s;
+}
+#seven {
+    font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: example6;
+    animation-duration: 2s;
+    bottom: 460px;
+    right: 1036px;
+    z-index: 900;
+}
+#pden_link {
+  font-family: sans-serif;
+  color: Whitesmoke;
+  text-decoration: none;
+  font-size: 16px;
+  position: fixed;
+  animation-name: example6;
+  animation-duration: 2s;
+  bottom: 432px;
+  right: 1043px;
+  z-index: 900;
+}
+
+#literacy_link {
+  font-family: sans-serif;
+  color: Whitesmoke;
+  text-decoration: none;
+  font-size: 16px;
+  position: fixed;
+  animation-name: example6;
+  animation-duration: 2s;
+  bottom: 402px;
+  right: 1063px;
+  z-index: 900;
+}
+#one {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  bottom:50px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#three{
+  font-family: sans-serif;
+  position: relative;
+  left: 221px;
+  top: 700px;
+  color: black;
+  text-align: left;
+  font-size: 25px;
+  color:Whitesmoke;
+    width: 800px;
+    height:200px;
+}
+#four {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 1590px;
+  color: white;
+}
+#state_wise_literacy {
+  position: relative;
+  left: -270px;
+  top: 2200px;
+  color: white;
+  font-family: fantasy;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 14px 25px;
+  border-radius: 23px;
+  background-color: #4E4E50;
+
+}
+#state_wise_literacy:hover, #state_wise_literacy:active {
+  background-color: white;
+  color: #4E4E50;
+}
+#two {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 130px;
+  color: white;
+}
+#Table_of_content {
+  font-family: monospace;
+  text-decoration: underline;
+  position: fixed;
+  bottom: 515px;
+  font-size: 22px;
+  left: 40px;
+  z-index: 900;
+  color: white;
+  border-color: white;
+  animation-name: animation_content;
+  animation-duration: 4s;
+  animation-delay: 1s;
+}
+#Pden_p {
+  font-family: sans-serif;
+  position: relative;
+  /*left: 221px;
+  top: 700px;*/
+  left: 221px;
+  top:2070px;
+  color: black;
+  text-align: left;
+  font-size: 25px;
+  color:Whitesmoke;
+    width: 800px;
+    height:200px;
+}
+#Pden_title {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  left: 230px;
+  top: 3190px;
+  text-decoration: underline;
+  color: white;
+  font-size: 40px;
+}
+@keyframes content-1 {
+    0% {
+      opacity: 0%;
+      color: #4E4E50;
+    }
+    100%{
+      opacity: 100%;
+      color: Whitesmoke;
+    }
+}
+@keyframes animation_content {
+    0% {
+      color: white;
+    }
+    25% {
+      color: orange;
+    }
+    50% {
+      color: lightgreen;
+    }
+    100% {
+      color: white;
+    }
+}
+.rectangle{
+
+  height: 170px;
+  width: 1300px;
+  position: relative;
+  animation-name: example2;
+  right: 107px;
+  animation-duration: 2s;
+  bottom: 170px;
+  background-color: #4E4E50;
+  z-index: 800;
+}
+#rectangle2{
+  background-color: #4E4E50;
+  border-radius: 25px;
+  position: fixed;
+  top:88px;
+  left: -30px;
+  height: 700px;
+  width: 220px;
+  animation-name: example5;
+  animation-duration: 2s;
+  z-index: 800;
+}
+#literacy {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  left: 230px;
+  top: 3830px;
+  text-decoration: underline;
+  color: white;
+  font-size: 40px;
+}
+#literacy_p {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top: 2000px;
+  color: black;
+  text-align: left;
+  font-size: 25px;
+  color:Whitesmoke;
+    width: 800px;
+    height:200px;
+}
+#img1 {
+  position: relative;
+    top: 600px;
+    left: 220px;
+  width: 770px;
+  height: 460px;
+  animation-name: example3;
+  animation-duration: 2s;
+}
+#img2 {
+  position: absolute;
+  top: 2740px;
+  left: 230px;
+  width: 770px;
+  height: 460px;
+  animation-name: example4;
+  animation-duration: 2s;
+}
+#img3 {
+  position: relative;
+  top: 1950px;
+  left: 220px;
+  width: 770px;
+  height: 460px;
+  animation-name: img3_animation;
+  animation-duration: 2s;
+}
+#img4 {
+  position: relative;
+  top: 2140px;
+  left: 223Px;
+  width: 770px;
+  height: 480px;
+  animation-name: img4_animation;
+  animation-duration: 2s;
+}
+#img5 {
+  position: relative;
+  top: 2140px;
+  left: 223Px;
+  width: 770px;
+  height: 480px;
+  animation-name: img5_animation;
+  animation-duration: 2s;
+}
+#img6 {
+  position: relative;
+  top: 2140px;
+  left: 223Px;
+  width: 770px;
+  height: 480px;
+  animation-name: img5_animation;
+  animation-duration: 2s;
+}
+@keyframes img6_animation {
+  0% {
+    opacity: 0;
+    position: relative;
+    top: 2140px;
+    left: 163Px;
+  }
+  100% {position: relative;
+    top: 2140px;
+    left: 223Px;
+  }
+}
+@keyframes img5_animation {
+  0% {
+    opacity: 0;
+    position: relative;
+    top: 2140px;
+    left: 163Px;
+  }
+  100% {position: relative;
+    top: 2140px;
+    left: 223Px;
+  }
+}
+@keyframes img4_animation {
+  0% {
+    opacity: 0;
+    position: relative;
+    top: 2140px;
+    left: 163Px;
+  }
+  100% {position: relative;
+    top: 2140px;
+    left: 223Px;
+  }
+}
+@keyframes img3_animation {
+  0% {
+    opacity: 0;
+    position: relative;
+    top: 1950px;
+    left: 160px;
+  }
+  100% {position: relative;
+  top: 1950px;
+  left: 220px;
+  }
+}
+@keyframes example7 {
+  0% {
+    opacity: 0%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+@keyframes example6 {
+  0% {
+    opacity: 0%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+@keyframes example5 {
+  0% {position: fixed;
+  top:88px;
+  left: -400px;
+  }
+  100% {position: fixed;
+  top:88px;
+  left: -30px;
+  }
+}
+@keyframes example4 {
+  0% {position: absolute;
+    opacity: 0;
+    top: 2740px;
+    left: 170px;
+  }
+  100% {position: absolute;
+    top: 2740px;
+    left: 230px;
+  }
+}
+@keyframes example3 {
+  0% {position: relative;
+    opacity: 0;
+    top: 600px;
+    left: 170px;
+  }
+  100% {position: relative;
+    top: 600px;
+    left: 220px;
+  }
+}
+@keyframes example2 {
+  0% {position: relative;
+    bottom: 300px;
+    right: 107px;
+  }
+  100% {position: relative;
+    bottom: 170px;
+    right: 107px;
+  }
+}
+@keyframes example {
+  0% {color: black;}
+  25% {color: white;}
+  50% {color: black;}
+  75% {color: white;}
+  100% {color: black;}
+}
