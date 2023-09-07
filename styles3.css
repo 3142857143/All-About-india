@@ -1,0 +1,750 @@
+body{
+  background-color: #1A1A1D;
+}
+#science {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 135px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#demograph {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 80px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#demograph:hover, #demograph:active {
+  background-color: white;
+
+}
+
+#geography {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 200px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#geography:hover, #geography:active {
+  background-color: white;
+}
+#politics {
+  font-family: monospace;
+  font-size: 20px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  left: 250px;
+  background-color: black;
+  padding: 5px 5px;
+  border-radius: 20px;
+  z-index: 900;
+}
+#politics:hover, #politics:active {
+  background-color: white;
+}
+#one {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  bottom:50px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#two {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 130px;
+  color: white;
+}
+#three {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 1530px;
+  color: white;
+}
+#four {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:1123px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#five {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 2390px;
+  color: white;
+}
+#seven {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:1273px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#six {
+  font-family: monospace;
+  font-size: 26px;
+  shape-outside: circle();
+  text-decoration: None;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  position: relative;
+  bottom: 9px;
+  z-index: 900;
+}
+#eight {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 3100px;
+  color: white;
+}
+#nine {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:1273px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#ten {
+font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 4740px;
+  color: white;
+}
+#eleven {
+font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 4790px;
+  color: white;
+}
+#twelve {
+font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:1303px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#thirteen {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 5090px;
+  color: white;
+}
+#fourteen {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:1373px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#fifteen {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 7590px;
+  color: white;
+}
+#sixteen {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:3013px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#seventeen {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 9490px;
+  color: white;
+}
+#eighteen {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:4043px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#nineteen {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 10500px;
+  color: white;
+}
+#twenty {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:4183px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#twentyone {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 12770px;
+  color: white;
+}
+#twentytwo {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:5593px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}#twentythree {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 15080px;
+  color: white;
+}
+#twentyfour {
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:7023px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#NonOlympicSport {
+  font-family: "Monaco", monospace;
+  position: absolute;
+  text-decoration: underline;
+  left: 227px;
+  font-size: 40px;
+  top: 15020px;
+  color: white;
+}
+#img1 {
+  position: relative;
+    top: 1200px;
+    left: 220px;
+  width: 770px;
+  height: 460px;
+  animation-name: example3;
+  animation-duration: 2s;
+}
+#img2 {
+  position: relative;
+    top: 1210px;
+    left: 220px;
+  width: 770px;
+  height: 460px;
+  animation-name: img_2;
+  animation-duration: 2s;
+}
+#img3 {
+  position: relative;
+    top: 1210px;
+    size: 20px;
+    left: 220px;
+  /*width: 870px;
+  height: 760px;*/
+  animation-name: img_2;
+  animation-duration: 2s;
+}
+#img4 {
+  position: relative;
+    top: 1210px;
+    size: 20px;
+    left: 220px;
+  /*width: 870px;
+  height: 760px;*/
+  animation-name: img_2;
+  animation-duration: 2s;
+}
+#img5 {
+  position: relative;
+    top: 2970px;
+    size: 20px;
+    left: 220px;
+  /*width: 870px;
+  height: 760px;*/
+  animation-name: img_5;
+  animation-duration: 2s;
+}
+#img6 {
+  position: relative;
+    top: 4000px;
+    size: 20px;
+    left: 220px;
+  /*width: 870px;
+  height: 760px;*/
+  animation-name: img_6;
+  animation-duration: 2s;
+}
+#img7 {
+  position: relative;
+    top: 4150px;
+    size: 20px;
+    left: 220px;
+  /*width: 870px;
+  height: 760px;*/
+  animation-name: img_7;
+  animation-duration: 2s;
+}
+#img8 {
+  position: relative;
+    top: 5550px;
+    size: 20px;
+    left: 220px;
+  /*width: 870px;
+  height: 760px;*/
+  animation-name: img_8;
+  animation-duration: 2s;
+}
+#img9 {
+  position: relative;
+    top: 6920px;
+    size: 20px;
+    left: 220px;
+  /*width: 870px;
+  height: 760px;*/
+  animation-name: img_9;
+  animation-duration: 2s;
+}
+@keyframes img_9 {
+  0% {position: relative;
+    opacity: 0;
+    top: 6920px;
+    left: 170px;
+  }
+  100% {position: relative;
+    top: 6920px;
+    left: 220px;
+  }
+}
+@keyframes img_8 {
+  0% {position: relative;
+    opacity: 0;
+    top: 5550px;
+    left: 170px;
+  }
+  100% {position: relative;
+    top: 5550px;
+    left: 220px;
+  }
+}
+@keyframes img_7 {
+  0% {position: relative;
+    opacity: 0;
+    top: 4150px;
+    left: 170px;
+  }
+  100% {position: relative;
+    top: 4150px;
+    left: 220px;
+  }
+}
+@keyframes img_6 {
+  0% {position: relative;
+    opacity: 0;
+    top: 4000px;
+    left: 170px;
+  }
+  100% {position: relative;
+    top: 4000px;
+    left: 220px;
+  }
+}
+@keyframes img_5 {
+  0% {position: relative;
+    opacity: 0;
+    top: 2970px;
+    left: 170px;
+  }
+  100% {position: relative;
+    top: 2970px;
+    left: 220px;
+  }
+}
+@keyframes img_2 {
+  0% {position: relative;
+    opacity: 0;
+    top: 1210px;
+    left: 170px;
+  }
+  100% {position: relative;
+    top: 1210px;
+    left: 220px;
+  }
+}
+@keyframes example {
+  0% {color: black;}
+  25% {color: white;}
+  50% {color: black;}
+  75% {color: white;}
+  100% {color: black;}
+}
+.rectangle{
+
+  height: 170px;
+  width: 1300px;
+  position: relative;
+  animation-name: example2;
+  right: 90px;
+  animation-duration: 2s;
+  bottom: 170px;
+  background-color: #4E4E50;
+  z-index: 800;
+}
+@keyframes example2 {
+  0% {position: relative;
+    bottom: 300px;
+    right: 90px;
+  }
+  100% {position: relative;
+    bottom: 170px;
+    right: 90px;
+  }
+}
+@keyframes example3 {
+  0% {position: relative;
+    opacity: 0;
+    top: 1200px;
+    left: 170px;
+  }
+  100% {position: relative;
+    top: 1200px;
+    left: 220px;
+  }
+}
+#kapildev {
+  position: relative;
+    top: 7390px;
+    height: 70%;
+    max-width: 70%;
+    left: 220px;
+  /*width: 870px;
+  height: 760px;*/
+  animation-name: ;
+  animation-duration: 2s;
+}
+#achievements {
+
+  font-family: sans-serif;
+  position: relative;
+  left: 220px;
+  top:7423px;
+  color: Whitesmoke;
+  text-align: left;
+  font-size: 25px;
+    width: 800px;
+    height:200px;
+}
+#cricket2007 {
+  position: relative;
+    top: 10px;
+    height: 200%;
+    max-width: 200%;
+    left: 0px;
+  /*width: 870px;
+  height: 760px;*/
+  animation-name: ;
+  animation-duration: 2s;
+}
+#wc-bf {
+  max-width:150%;
+  height: 150%;
+}
+#rectangle2{
+  background-color: #4E4E50;
+  border-radius: 25px;
+  position: fixed;
+  top:88px;
+  left: -30px;
+  height: 700px;
+  width: 220px;
+  animation-name: shape;
+  animation-duration: 2s;
+  z-index: 800;
+}
+@keyframes shape {
+  0% {position: fixed;
+  top:88px;
+  left: -400px;
+  }
+  100% {position: fixed;
+  top:88px;
+  left: -30px;
+  }
+}
+#href1 {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 400px;
+    right: 1051px;
+    z-index: 900;
+}
+#href2 {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 370px;
+    right: 1056px;
+    z-index: 900;
+}
+#archery {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 343px;
+    right: 1083px;
+    z-index: 900;
+}
+#Athletics {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 317px;
+    right: 1080px;
+    z-index: 900;
+}
+#Badminton {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 292px;
+    right: 1073px;
+    z-index: 900;
+}
+#Boxing {
+    font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 267px;
+    right: 1086px;
+    z-index: 900;
+}
+#FieldHockey {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 244px;
+    right: 1065px;
+    z-index: 900;
+}
+#Football {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 220px;
+    right: 1082px;
+    z-index: 900;
+}
+#non {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 196px;
+    right: 1042px;
+    z-index: 900;
+}
+#cricket {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 170px;
+    right: 1086px;
+    z-index: 900;
+
+}
+#sportslink {
+  font-family: sans-serif;
+    color: Whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    position: fixed;
+    animation-name: link;
+    animation-duration: 2s;
+    bottom: 430px;
+    right: 1062px;
+    z-index: 900;
+}
+@keyframes link{
+  0% {
+    opacity: 0%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+#Table_of_content {
+  font-family: monospace;
+  text-decoration: underline;
+  position: fixed;
+  bottom: 455px;
+  font-size: 22px;
+  left: 40px;
+  z-index: 900;
+  color: white;
+  border-color: white;
+  animation-name: animation_content;
+  animation-duration: 4s;
+  animation-delay: 1s;
+}
+@keyframes animation_content {
+    0% {
+      color: white;
+    }
+    25% {
+      color: orange;
+    }
+    50% {
+      color: lightgreen;
+    }
+    100% {
+      color: white;
+    }
+}
