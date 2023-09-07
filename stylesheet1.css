@@ -1,0 +1,71 @@
+body {
+  background-image: url('back-image.jpeg');
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-size: 100% 100%;
+  background:  filter: blur(4px);;
+}
+h1 {
+   font-family: monospace;
+}
+svg {
+    display: block;
+    font: 10.5em 'Montserrat';
+    width: 1200px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.text-copy {
+    fill: none;
+    stroke: white;
+    stroke-dasharray: 6% 29%;
+    stroke-width: 5px;
+    stroke-dashoffset: 0%;
+    animation: stroke-offset 5.5s infinite linear;
+}
+
+.text-copy:nth-child(1){
+	stroke: black;
+	animation-delay: -1;
+}
+
+.text-copy:nth-child(2){
+	stroke: black;
+	animation-delay: -3s;
+}
+
+.text-copy:nth-child(3){
+	stroke: black;
+	animation-delay: -5s;
+}
+
+.text-copy:nth-child(4){
+	stroke: black;
+	animation-delay: -7s;
+}
+
+.text-copy:nth-child(5){
+	stroke: black;
+	animation-delay: -9s;
+}
+
+@keyframes stroke-offset{
+	100% {stroke-dashoffset: -35%;}
+}
+a:link, a:visited {
+  background-color: darkgrey;
+  color: black;
+  padding: 14px 25px;
+  text-align: justify;
+  text-decoration: none;
+  display: inline-block;
+   text-align: center;
+   position: relative;
+   left: 550px
+ }
+
+a:hover, a:active {
+  background-color: black;
+  color: white;
+}
